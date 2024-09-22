@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "38802636636",
+    "project_id": "e-learnapp-65531",
+    "storage_bucket": "e-learnapp-65531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38802636636:android:3a2eb5af5dd14ad89a0b99",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38802636636-jksg9vmsgetfk9vt8qep9rs4fqjr88e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "e0b6b97438969d35c5a0e07e4771294be4eccd3e"
+          }
+        },
+        {
+          "client_id": "38802636636-7qn41n8qhk4pkcb8cuh6197kcbgombaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYuod5ECzvzf0PYPPK3o-rl-F6_0PrIyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38802636636-7qn41n8qhk4pkcb8cuh6197kcbgombaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
